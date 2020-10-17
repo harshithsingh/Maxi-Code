@@ -2,7 +2,7 @@
 **Maxi code**
 
 ### Our first update
-**Our first update is that we came up with thhe idea of a bmi-caclculator,future hieght predictor and a otp accescible vaccine sheet**
+**Our first update is that we came up with the idea of a bmi-caclculator,future hieght predictor and a otp accescible vaccine sheet**
 
 ### Bmi-calculator
 >>>This a calculator which basically tells if you are *underweight,normal,overweight,obese and extremely obese.*
