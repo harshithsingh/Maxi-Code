@@ -53,7 +53,7 @@ if gender == 'male' :
  #this is if you are a female
 elif gender == 'female' :
 	futurehieght = ((moms_hieght + dads_hieght -.13) / (2))
-	print( "Your future hieght is : " , futurehieght)
+	print( "Your future hieght is : ", futurehieght)
  #this for others
 else:
 		future_hieght = ((moms_hieght + dads_hieght +.13) / (2))
