@@ -49,7 +49,7 @@ moms_hieght = float(input("Please enter your mothers height in metres : "))
 #this is if you are a male
 if gender == 'male' :
 	future_hieght = ((moms_hieght + dads_hieght +.13) / (2))
-	print(future_hieght)
+	print( "Your future hieght is  :  ",future_hieght)
  #this is if you are a female
 elif gender == 'female' :
 	futurehieght = ((moms_hieght + dads_hieght -.13) / (2))
@@ -57,7 +57,7 @@ elif gender == 'female' :
  #this for others
 else:
 		future_hieght = ((moms_hieght + dads_hieght +.13) / (2))
-		print(future_hieght)
+		print("Your future hieght is : ",future_hieght)
 months=int(input("enter your baby's age in months(0-15)"))
 print(months)
 #definitions of certian diseases
