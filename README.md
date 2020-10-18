@@ -1,5 +1,7 @@
 # Maxi-Code
 **Maxi code**
+## THE TOPIC CHOOSEN : PUBLIC HEALTH
+## THE TEAM MEMBERS  : SAI RISHI,HARSHITH
 
 ### Our first update
 **Our first update is that we came up with the idea of a bmi-caclculator,future hieght predictor and a otp accescible vaccine sheet**
