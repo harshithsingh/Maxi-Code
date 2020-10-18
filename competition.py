@@ -1,5 +1,7 @@
 #@title Default title text
 #this is an otp genrator and the page is accessed only when the correct otp is entered
+#the name of this program is health monitors by maxi code 
+# by sai rishi and harshith
 import sys
 import math,random
 def generateOTP() : #
