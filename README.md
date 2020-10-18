@@ -34,3 +34,7 @@
 >>> now we have done our level best on our ppt and to extract it we we have made a pdf of the same ppt 
 >>> We wish that this particular program will ome into action any moment.
 >>> we are **90%** good to go to push our folders for the submission 
+
+### Some additional things :
+>>> We used the programing language of python its eay to use and is very helpful>
+>>> We are hoping that everything goes on good
