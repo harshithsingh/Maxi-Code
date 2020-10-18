@@ -1,7 +1,7 @@
+#the name of this code is health monitor by maxi code team
+# by sai rishi and harshith
 #@title Default title text
 #this is an otp genrator and the page is accessed only when the correct otp is entered
-#the name of this program is health monitors by maxi code 
-# by sai rishi and harshith
 import sys
 import math,random
 def generateOTP() : #
@@ -44,21 +44,21 @@ elif bmi >30 and bmi <40:
 else:
 	print("Your BMI is Extremely Obese")	
  #your inputs again
-dads_hieght = float(input("PLease enter your fathers height in meters : "))
-moms_hieght = float(input("Please enter your mothers height in metres : "))
+dads_height = float(input("PLease enter your fathers height in meters : "))
+moms_height = float(input("Please enter your mothers height in metres : "))
 #this is if you are a male
 if gender == 'male' :
-	future_hieght = ((moms_hieght + dads_hieght +.13) / (2))
-	print( "Your future hieght is  :  ",future_hieght)
+	future_height = ((moms_height + dads_height +.13) / (2))
+	print("Your future height is : " + str(future_height))
  #this is if you are a female
 elif gender == 'female' :
-	futurehieght = ((moms_hieght + dads_hieght -.13) / (2))
-	print( "Your future hieght is : ", futurehieght)
+	future_height = ((moms_height + dads_height -.13) / (2))
+	print("Your future height is : " + future_height)
  #this for others
 else:
-		future_hieght = ((moms_hieght + dads_hieght +.13) / (2))
-		print("Your future hieght is : ",future_hieght)
-months=int(input("enter your baby's age in months(0-15)"))
+		future_height = ((moms_height + dads_height +.13) / (2))
+		print("Your future height is : " + future_height)
+months=int(input("enter your baby's age in months (0-15) : "))
 print(months)
 #definitions of certian diseases
 #dictionary 
